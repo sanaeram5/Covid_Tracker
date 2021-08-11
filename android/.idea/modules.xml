@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/covidTracker.iml" filepath="$PROJECT_DIR$/.idea/modules/covidTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/covidTracker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/covidTracker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/978756182/covidTracker.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/978756182/covidTracker.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-654811656/covidTracker.react-native-contacts.iml" filepath="$PROJECT_DIR$/.idea/modules/-654811656/covidTracker.react-native-contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-551979199/covidTracker.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-551979199/covidTracker.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/67971923/covidTracker.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/67971923/covidTracker.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-142047566/covidTracker.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-142047566/covidTracker.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1153703365/covidTracker.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1153703365/covidTracker.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1519664278/covidTracker.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1519664278/covidTracker.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1438023682/covidTracker.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1438023682/covidTracker.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1907820895/covidTracker.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1907820895/covidTracker.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2084884533/covidTracker.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/2084884533/covidTracker.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1076367907/covidTracker.react-native-view-shot.iml" filepath="$PROJECT_DIR$/.idea/modules/-1076367907/covidTracker.react-native-view-shot.iml" />
+    </modules>
+  </component>
+</project>
